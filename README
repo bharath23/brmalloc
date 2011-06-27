@@ -1,0 +1,5 @@
+brmalloc
+========
+This is a simple bitmap memory allocator.
+
+Author: Bharath Ramesh <bramesh.dev@gmail.com>
